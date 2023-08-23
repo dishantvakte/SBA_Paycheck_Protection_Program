@@ -1,4 +1,4 @@
-# sba_ppp
+# Small Business Association: Paycheck Protection Program
 SBA: Paycheck Protection Program data analysis
 
 The SBA introduced PPP to keep the workforce employed by providing businesses with
